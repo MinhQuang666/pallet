@@ -5,7 +5,6 @@ function App() {
     <div className="App">
       {/* Banner Section */}
       <header className="banner">
-        <img src="/src/assets/react.svg" alt="Test Banner" style={{ width: '20%', height: 'auto' }} />
         <h1>Welcome to Our Company</h1>
         <p>Specializing in Plastic Pallets for the Printing Industry</p>
       </header>
